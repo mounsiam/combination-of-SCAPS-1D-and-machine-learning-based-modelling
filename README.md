@@ -1,0 +1,1 @@
+# combination-of-SCAPS-1D-and-machine-learning-based-modelling
